@@ -12,6 +12,6 @@ To predict power usage for a house dependent on factors like temperature, humidi
 
 - Parameter tuning
 
--Feature Selection
+- Feature Selection
 
 - Feature extraction
